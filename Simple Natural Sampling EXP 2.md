@@ -1,12 +1,14 @@
-# Natural-Sampling
+## Natural-Sampling
 
-# Aim 
+## Aim 
 Write a simple Natural sampling program using Python.
 
-# Tools required 
+## Tools required 
 Python 3.x
 
-# Program 
+## Program 
+
+ '''
 #Natural sampling
 import numpy as np
 import matplotlib.pyplot as plt
@@ -67,8 +69,9 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 
-# Output Waveform 
+'''
+## Output Waveform 
 ![image](https://github.com/user-attachments/assets/36960b26-d18f-4d4e-92b2-9a38b445f3ea)
 
-# Results
+## Results
 Thus the simple Natural sampling program is excuted Successfully using Python.
